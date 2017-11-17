@@ -1,0 +1,2 @@
+janith,12345,Janith,Ganewatta,user.png,0,admin
+kotiya,12345,uditha,sampath,kotiya_QsMars.png,0,user
